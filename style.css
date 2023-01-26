@@ -1,0 +1,10 @@
+#clock {
+    font-size: 100px;
+    font-weight: bold;
+    background-color: black;
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5%;
+  }
+  
